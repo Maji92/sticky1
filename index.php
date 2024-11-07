@@ -14,7 +14,7 @@ if (isset($_SESSION['new_prospect_response']->decline_reasons)) {
 <head>
     <meta charset="utf-8" />
 
-    <title>Kobalt Tool Set</title>
+    <title>Kobalt Tool Set test</title>
 
     <meta name="description" content="Kobalt Tool Set" />
 
